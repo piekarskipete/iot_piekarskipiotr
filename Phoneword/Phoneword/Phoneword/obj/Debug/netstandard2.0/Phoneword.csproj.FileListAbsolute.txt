@@ -1,0 +1,6 @@
+C:\Users\Uczelnia\Downloads\mobile_pawelsydorowicz-main\mobile_pawelsydorowicz-main\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.AssemblyReference.cache
+C:\Users\Uczelnia\Downloads\mobile_pawelsydorowicz-main\mobile_pawelsydorowicz-main\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczelnia\Downloads\mobile_pawelsydorowicz-main\mobile_pawelsydorowicz-main\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Uczelnia\Downloads\mobile_pawelsydorowicz-main\mobile_pawelsydorowicz-main\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+C:\Users\Uczelnia\Downloads\mobile_pawelsydorowicz-main\mobile_pawelsydorowicz-main\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+C:\Users\Uczelnia\Downloads\mobile_pawelsydorowicz-main\mobile_pawelsydorowicz-main\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
